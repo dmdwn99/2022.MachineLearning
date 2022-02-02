@@ -2,7 +2,7 @@
 2022-1학기 지능기전공학부 기계학습 수업
 
 ## 수강신청 전 확인 사항
-- 2021년도 깃허브
+- 작년 수업과 큰 흐름은 다르지 않음. 2021년도 수업 Repository 참고 
   - https://github.com/sejongresearch/2021.MachineLearning
 
 ## 2021년도 기계학습과 차이점
