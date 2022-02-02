@@ -17,5 +17,7 @@
   - 스터디 그룹과 오프라인 실습 공간 제공 
 
 
-
+## 2021년도 강의 의견 및 코멘트
+- 아래의 강의 의견과 코멘트를 확인하시면, 해당 수업의 성향을 이해하시는데 도움이 돌 것 같습니다.
+  - https://docs.google.com/spreadsheets/d/1GqRQg1I8KcUrwOh4uqUR--k8e5wBq8qfCyc7WD_5vmQ/edit?usp=sharing
 
