@@ -23,3 +23,11 @@
 - 아래의 강의 의견과 코멘트를 확인하시면, 해당 수업의 성향을 이해하시는데 도움이 돌 것 같습니다.
   - https://docs.google.com/spreadsheets/d/1GqRQg1I8KcUrwOh4uqUR--k8e5wBq8qfCyc7WD_5vmQ/edit?usp=sharing
 
+
+## 강의계획서
+- 수업시간: 스마트기기 001반 월(12:00-13:30): 이론 / 수(12:00-13:30): 실습 
+- 담당교수: 최유경(ykchoi@sejong.ac.kr)
+- 담당조교: 이광진(총괄), 홍주영, 임근택, 이승현
+
+
+
