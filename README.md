@@ -6,7 +6,7 @@
 - 기말고사: 6월 13일(월) 7시-10시
 
 ## 수업정보
-- 수업방식: 비대면 녹화영상 & 슬랙통한 질의응답
+- 수업방식: 혼합수업 (비대면 이론, 대면 실습) 
 - 질의응답: slack 플랫폼
 - 실습/과제점수 채점 현황: [채점파일](https://docs.google.com/spreadsheets/d/1SWyDo8FFm8497iPIcR2Ma_xybgxmRu-mouXfwichNtw/edit#gid=0)
 
