@@ -25,3 +25,5 @@
 | 2 | ML생애주기 2 | | 2022.03.07 | [Youtube](https://youtu.be/NL37i3XWZEo) |  | |
 | 2 | ML생애주기 3 | | 2022.03.07 | [Youtube](https://youtu.be/YOpKQ0NXQvU) |  | |
 | 2 | ML생애주기 4 | | 2022.03.07 | [Youtube](https://youtu.be/f0AKXARElrM) |  | 이수증 제출 마감  |
+
+
