@@ -7,7 +7,7 @@
 - 제출할 곳: admin@rcv.sejong.ac.kr
   - 이메일 제목 : [기계학습][3주차][실습 과제1] 나만의 서버 구축하기(학번_이름)
 
-## [기계학습][3주차][실습과제2] Kaggle에 정답 제출하기 (학번_이름)
+## [기계학습][3주차][실습과제2] Kaggle에 정답 제출하기 
 - 캐글에 정답 제출하기 연습
   - [파일 업로드를 이용하여 캐글에 정답 제출하기](https://www.kaggle.com/t/5751b5412d5348d0b714d7b182e28d2a), Upload-submit.csv 참고
   - [노트북을 이용하여 캐글에 정답 제출하기](https://www.kaggle.com/t/549ddbfc65674f3bbd43d36d8b7ca11b), Kaggle-submit.ipynb 참고
