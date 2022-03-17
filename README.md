@@ -35,6 +35,9 @@
 | 3 | 초청세미나  | - | 2022.03.14 | [Youtube](https://youtu.be/UXipfbzVkMs) | [3주차 과제 마감](https://github.com/sejongresearch/2022.MachineLearning/blob/main/Labs/3%EC%A3%BC%EC%B0%A8/readme.md)(3/20) | |
 
 
-
+## 자기주도학습
+- 도커가 궁금합니다!
+  - 생활코딩 도커 입문편으로 시작해 볼까요? 
+    - https://www.youtube.com/watch?v=Ps8HDIAyPD0&list=PLuHgQVnccGMDeMJsGq2O-55Ymtx0IdKWf
 
 
