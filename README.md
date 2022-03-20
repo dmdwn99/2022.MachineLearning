@@ -36,7 +36,7 @@
 | 4 | KNN 개념 | [PDF](https://github.com/sejongresearch/2022.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20KNN%20%E1%84%80%E1%85%A2%E1%84%82%E1%85%A7%E1%86%B7%20(2022).pdf)| 2022.03.21 | [Youtube](https://youtu.be/wCW2ZVn01J0) |  | |
 | 4 | KNN 분류 <br> 이론과 실습 | [PDF](https://github.com/sejongresearch/2022.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20KNN%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2%20%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%20(2022).pdf)| 2022.03.21 | [Youtube](https://youtu.be/RXP3soGq85A) |  | |
 | 4 | KNN 회귀 <br> 이론과 실습 | [PDF](https://github.com/sejongresearch/2022.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20KNN%20%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1%20%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%20(2022).pdf)| 2022.03.21 | [Youtube](https://youtu.be/KWbKjV1VmXc) |  | |
-| 4 | KNN 실습과제  | | 2022.04.03 |  |  | |
+| 4 | KNN 실습과제  | [과제설명서](https://github.com/sejongresearch/2022.MachineLearning/blob/main/Labs/4%EC%A3%BC%EC%B0%A8/readme.md) | 2022.04.03 |  |  | |
 
 
 ## 자기주도학습
