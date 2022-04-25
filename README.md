@@ -59,6 +59,10 @@
 | 7 | 의사결정나무 실습 |[PDF](https://github.com/sejongresearch/2022.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%82%E1%85%A1%E1%84%86%E1%85%AE_%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8.pdf), [코드](https://github.com/sejongresearch/2022.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B7%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%82%E1%85%A1%E1%84%86%E1%85%AE_%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3.ipynb) | 2022.04.11 | [Youtube](https://youtu.be/gsrIc8gy4qI) |  | |
 | * | 실습과제 (6)  | [과제설명서](https://github.com/sejongresearch/2022.MachineLearning/blob/main/Labs/7%EC%A3%BC%EC%B0%A8/Readme.md) | 2022.04.11 |  | 실습과제(6) 마감 (4/24) | |
 | 8 | 중간고사 | | 2022.04.18 | 오후7시-오후10시 |  | |
+| 9 | SVM 이론 | [PDF](https://github.com/sejongresearch/2022.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B9%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20SVM_%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB.pdf) | 2022.04.25 | [Youtube](https://youtu.be/_ENOPWRNKnI) |  | |
+| 9 | SVM 이론 | | 2022.04.25 | [Youtube](https://youtu.be/eTjo2n1jqFQ) |  | |
+| 9 | SVM 실습 | [PDF](https://github.com/sejongresearch/2022.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B9%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20SVM_%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8.pdf) | 2022.04.25 | [Youtube](https://youtu.be/JAizhkzU77Q) |  | |
+
 
 ## 자기주도학습
 - 도커가 궁금합니다!
