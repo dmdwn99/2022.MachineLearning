@@ -67,7 +67,12 @@
 | 10 | 군집화 이론 | | 2022.05.02 | [Youtube](https://youtu.be/HWQEuBvVFM8) |  | |
 | 10 | 군집화 이론 | | 2022.05.02 | [Youtube](https://youtu.be/aSID9qMbV5s) |  | |
 | 10 | 군집화 실습 | [PDF](https://github.com/sejongresearch/2022.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B10%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%80%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%B5%E1%86%B8%E1%84%92%E1%85%AA_%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8.pdf) | 2022.05.02 | [Youtube](https://youtu.be/9JWv7P7G1kE) |  | |
-| * | 실습과제 (8)  | [과제설명서](https://github.com/sejongresearch/2022.MachineLearning/blob/main/Labs/10%EC%A3%BC%EC%B0%A8/Readme.md) | 2022.05.02 |  | 실습과제(7) 마감 (5/15) | |
+| * | 실습과제 (8)  | [과제설명서](https://github.com/sejongresearch/2022.MachineLearning/blob/main/Labs/10%EC%A3%BC%EC%B0%A8/Readme.md) | 2022.05.02 |  | 실습과제(8) 마감 (5/15) | |
+| 11 | 차원축소 이론 |[PDF](https://github.com/sejongresearch/2022.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B11%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8E%E1%85%A1%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%89%E1%85%A9_%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB.pdf) | 2022.05.09 | [Youtube](https://youtu.be/Zyh2ToV1MXk) |  | |
+| 11 | 차원축소 이론 | | 2022.05.09 | [Youtube](https://youtu.be/BbMUg41ceTc) |  | |
+| 11 | 차원축소 실습 |[PDF](https://github.com/sejongresearch/2022.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B11%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8E%E1%85%A1%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%89%E1%85%A9_%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8.pdf) | 2022.05.09 | [Youtube](https://youtu.be/7mA4QfchQi8) |  | |
+| * | 텀프로젝트 | [설명서](https://github.com/sejongresearch/2022.MachineLearning/blob/main/Labs/Project.md) | 2022.05.09 |  | 텀프로젝트 마감 (6/6) | |
+
 
 ## 자기주도학습
 - 도커가 궁금합니다!
