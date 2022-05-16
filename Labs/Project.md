@@ -14,6 +14,7 @@
 - 해결한 문제의 답안(submit.csv)은 캐글 리더보드에 제출 (P/NP 채점 방식)
 - 코드는 리더보드 노트북에 Private 으로 제출
   - 교수님을 포함한 모든 조교에게 공유
+  - (Yukyung Choi, y2sman, juyounghong, limguentaek, leeseunghyeon99)
 - 코드에는 반드시 주석이 포함되어야 함
 
 ## 배점 방식
